@@ -6,3 +6,4 @@
 
 ### Linked_List
 - Palindrome Linked List → [Code](./Linked_List/palindrome_linked_list.cpp)
+- Middle of linked list → [Code](./Linked_List/middle_of_linked_list.cpp)
