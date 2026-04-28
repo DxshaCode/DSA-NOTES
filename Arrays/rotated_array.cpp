@@ -1,15 +1,15 @@
-// 🔹 Problem: Check if array is sorted and rotated
+// Problem: Check if array is sorted and rotated
 
-// 🔹 Concept:
+// Concept:
 // Count number of breaks (nums[i] > nums[i+1])
 
-// 🔹 Approach:
+// Approach:
 // If breaks <= 1 → true else false
 
-// 🔹 Time Complexity: O(n)
-// 🔹 Space Complexity: O(1)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
-// 🔹 Code:
+// Code:
 class Solution {
 public:
     bool check(vector<int>& nums) {
@@ -21,7 +21,8 @@ public:
                 count++;
             }
         }
-        return count <= 1;
+        if(count<=1) return true;
+        else return false;
     }
 };
 
