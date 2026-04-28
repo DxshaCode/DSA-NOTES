@@ -1,4 +1,4 @@
-# DSA-NOTE
+# DSA-NOTES
 ## 📂 Topics
 
 ### Arrays
