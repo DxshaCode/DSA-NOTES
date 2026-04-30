@@ -3,6 +3,7 @@
 
 ### Arrays
 - Rotated Sorted Array → [Code](./Arrays/rotated_array.cpp)
+- remove duplicates from a sorted array → [Code](./Arrays/remove_duplicates_from_sorted_array.cpp)
 - Move Zeroes → [Code](./Arrays/move_zeroes.cpp)
 
 ### Linked_List
