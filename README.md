@@ -3,6 +3,7 @@
 
 ### Arrays
 - Rotated Sorted Array → [Code](./Arrays/rotated_array.cpp)
+- Move Zeroes → [Code](./Arrays/move_zeroes.cpp)
 
 ### Linked_List
 - Palindrome Linked List → [Code](./Linked_List/palindrome_linked_list.cpp)
