@@ -8,6 +8,7 @@
 - union of two sorted arrays → [Code](./Arrays/union_of_two_sorted_arrays.cpp)
 - missing number from an array → [Code](./Arrays/missing_number.cpp)
 - maximum consecutive ones → [Code](./Arrays/max_consecutive_ones.cpp)
+- other number appears twice and one number appear once → [Code](./Arrays/number_appear_once.cpp)
 
 ### Linked_List
 - Palindrome Linked List → [Code](./Linked_List/palindrome_linked_list.cpp)
