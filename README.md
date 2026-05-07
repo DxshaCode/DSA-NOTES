@@ -9,6 +9,7 @@
 - missing number from an array → [Code](./Arrays/missing_number.cpp)
 - maximum consecutive ones → [Code](./Arrays/max_consecutive_ones.cpp)
 - other number appears twice and one number appear once → [Code](./Arrays/number_appear_once.cpp)
+-  Two sum → [Code](./Arrays/two_sum.cpp)
 
 ### Linked_List
 - Palindrome Linked List → [Code](./Linked_List/palindrome_linked_list.cpp)
