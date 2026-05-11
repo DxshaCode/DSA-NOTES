@@ -10,6 +10,7 @@
 - maximum consecutive ones → [Code](./Arrays/max_consecutive_ones.cpp)
 - other number appears twice and one number appear once → [Code](./Arrays/number_appear_once.cpp)
 -  Two sum → [Code](./Arrays/two_sum.cpp)
+-  find duplicate number using constant space → [Code](./Arrays/find_duplicate_number.cpp)
 
 ### Linked_List
 - detect cycle in a linked list → [Code](./Linked_List/linked_list_cycle.cpp)
